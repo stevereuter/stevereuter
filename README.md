@@ -1,4 +1,8 @@
-## Steviesaurus Dev 👋
+<div align="center">
+    <a href="https://steviesaurus-dev.itch.io/">
+        <img src="images/profile-banner.png" alt="Steviesaurus Dev" />
+    </a>
+</div>
 
 Hi, I'm Steve. By day I write code, and by night I'm the develper at **Steviesaurus Dev**, creating retro inspired games.
 
