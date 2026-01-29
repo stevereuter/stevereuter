@@ -4,7 +4,7 @@
     </a>
 </div>
 
-Hi, I'm Steve. By day I write code, and by night I'm the develper at **Steviesaurus Dev**, creating retro inspired games.
+Hi, I'm Steve. By day I write code, and by night I'm the developer at **Steviesaurus Dev**, creating retro inspired games.
 
 - 🔭 I’m currently working on getting The Munching Millipede ready for release
 - 🌱 I’m currently learning Commodore BASIC 2.0, again!
