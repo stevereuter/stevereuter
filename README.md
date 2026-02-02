@@ -6,8 +6,8 @@
 
 Hi, I'm Steve. By day I write code, and by night I'm the developer at **Steviesaurus Dev**, creating retro inspired games.
 
-- 🔭 I’m currently working on getting The Munching Millipede ready for release
+- 🔭 I’m currently working on The Munching Millipede, and planning a web port
 - 🌱 I’m currently learning Commodore BASIC 2.0, again!
-- 🤔 I’m thinking about my next project, getting Space Invaders in a place that will not cause issues when published.
+- 🤔 I’m brainstorming ideas about my next Space Invaders inspired game
 
-You'll be able to play The Munching Millipede soon on [Steviesaurus Dev](https://steviesaurus-dev.itch.io/)
+You can [Play The Munching Millipede on itch](https://steviesaurus-dev.itch.io/the-munching-millipede)
