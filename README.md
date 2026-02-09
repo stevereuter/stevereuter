@@ -10,5 +10,5 @@ Hi, I'm Steve. By day I write code, and by night I'm the developer at **Steviesa
 - 🌱 I'm currently learning pixel art
 - 🤔 I’m currently thinking about a web version of The Munching Millipede
 
-You can [Play The Munching Millipede on itch](https://steviesaurus-dev.itch.io/the-munching-millipede)
-You can [Play UFO Intercept early access on itch](https://steviesaurus-dev.itch.io/ufo-intercept)
+- You can [Play The Munching Millipede on itch](https://steviesaurus-dev.itch.io/the-munching-millipede)
+- You can [Play UFO Intercept early access on itch](https://steviesaurus-dev.itch.io/ufo-intercept)
