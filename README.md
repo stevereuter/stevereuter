@@ -14,7 +14,7 @@ After that, I plan on pushing the limits of the C64 a little more by workin in C
 - 💾 The Munching Millipede is working C64 BASIC game, with a web based demo, and there's still more to come
 - 🔭 UFO Intercept, a space invaders inspired JavaScript shooter, has the base gameplay down, and will get enemy bosses next
 - 🚀 UFO Intercept story as Tactical Stand, a JavaScript BAttleship game, was recently pulled from my archives, more to come soon
-- 🌱 I'm currently working on develpment tools to help C64 BASIC be more readable and easier to work with
+- 🌱 I'm currently working on development tools to help C64 BASIC be more readable, such as variable aliases, and have contributed to the [VS64 extension](https://github.com/rolandshacks/vs64)
 - 🛠️ I’m also working on my next C64 BASIC game, Methane Mayhem
 
 [🐛 Play The Munching Millipede](https://steviesaurus-dev.itch.io/the-munching-millipede)
@@ -22,3 +22,5 @@ After that, I plan on pushing the limits of the C64 a little more by workin in C
 [🛸 Play UFO Intercept](https://steviesaurus-dev.itch.io/ufo-intercept)
 
 [🚀 Play UFO Intercept: Tactical Stand](https://steviesaurus-dev.itch.io/tactical-stand)
+
+[🐮 Try Methane Mayhem while it's in development](https://steviesaurus-dev.itch.io/methane-mayhem)
