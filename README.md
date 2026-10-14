@@ -11,16 +11,17 @@ My main focus at this time is Commodore 64 BASIC games. I like working in the st
 I have some web based games that I started a long time ago and want to complete too.
 After that, I plan on pushing the limits of the C64 a little more by workin in C or Assembly.
 
-- 💾 The Munching Millipede is working C64 BASIC game, with a web based demo, and there's still more to come
-- 🔭 UFO Intercept, a space invaders inspired JavaScript shooter, has the base gameplay down, and will get enemy bosses next
+- 🐍 The Munching Millipede is a C64 BASIC snake like game, with a web based demo
+- 🐮 Methane Mayhem is a C64 BASIC puzzle game using all 8 sprites with 28 different frames for animations
+- 👾 UFO Intercept, a space invaders inspired JavaScript shooter, has the base gameplay down, and will get enemy bosses next
 - 🚀 UFO Intercept story as Tactical Stand, a JavaScript BAttleship game, was recently pulled from my archives, more to come soon
-- 🌱 I'm currently working on development tools to help C64 BASIC be more readable, such as variable aliases, and have contributed to the [VS64 extension](https://github.com/rolandshacks/vs64)
-- 🛠️ I’m also working on my next C64 BASIC game, Methane Mayhem
+- 📇 I have contributed to the [VS64 extension](https://github.com/rolandshacks/vs64) with my variable alias system
+- 🌱 My newest project is going to by a custom BASIC AOT interpreter for the C64 written in 6502 Assembly
 
 [🐛 Play The Munching Millipede](https://steviesaurus-dev.itch.io/the-munching-millipede)
+
+[🐮 Try Methane Mayhem while it's in development](https://steviesaurus-dev.itch.io/methane-mayhem)
 
 [🛸 Play UFO Intercept](https://steviesaurus-dev.itch.io/ufo-intercept)
 
 [🚀 Play UFO Intercept: Tactical Stand](https://steviesaurus-dev.itch.io/tactical-stand)
-
-[🐮 Try Methane Mayhem while it's in development](https://steviesaurus-dev.itch.io/methane-mayhem)
